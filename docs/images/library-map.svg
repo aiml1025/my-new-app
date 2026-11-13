@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="230" viewBox="0 0 1080 230" role="img" aria-labelledby="title desc">
+  <title id="title">文件、资料与关联</title>
+  <desc id="desc">本地文件与资料条目关联，资料条目再关联演员、标签和来源网页。结构示意，非实际界面。</desc>
+  <rect width="1080" height="230" rx="16" fill="#f8fafc"/>
+  <g fill="none" stroke="#94a3b8" stroke-width="2"><path d="M282 105H400M670 105H788"/><path d="m391 100 9 5-9 5m388-10 9 5-9 5"/></g>
+  <g fill="#fff" stroke="#dbe2ea" stroke-width="1.5"><rect x="32" y="56" width="250" height="100" rx="12"/><rect x="400" y="40" width="270" height="132" rx="12"/><rect x="788" y="56" width="260" height="100" rx="12"/></g>
+  <g font-family="'Microsoft YaHei','Noto Sans CJK SC',sans-serif" text-anchor="middle">
+    <text x="157" y="99" font-size="25" fill="#172033">本地文件</text><text x="157" y="130" font-size="17" fill="#64748b">保存在哪里</text>
+    <text x="535" y="96" font-size="28" font-weight="600" fill="#2563eb">资料条目</text><text x="535" y="131" font-size="18" fill="#64748b">是什么 · 如何查找</text>
+    <text x="918" y="99" font-size="24" fill="#172033">演员 · 标签 · 来源</text><text x="918" y="130" font-size="17" fill="#64748b">还和什么有关</text>
+    <text x="341" y="88" font-size="15" fill="#64748b">关联</text><text x="729" y="88" font-size="15" fill="#64748b">关联</text>
+    <text x="540" y="207" font-size="15" fill="#64748b">结构示意 · 非实际界面</text>
+  </g>
+</svg>
